@@ -1,0 +1,35 @@
+# Python-related
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+
+# Editor-related
+.vscode/
+.idea/
+.DS_Store
+
+# OS-related
+Thumbs.db
+
+# Virtual environments
+venv/
+.env/
+
+# Logs
+*.log
+
+# Byte-compiled or optimized Python code
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Database files
+*.db
+*.sqlite3
+
+# Reports and temporary files
+*.xlsx
+*.csv
